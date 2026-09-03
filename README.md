@@ -157,6 +157,6 @@ Acesse a [Pasta de Documentação](https://www.google.com/search?q=./docs) para 
 | Gabriel Herzer Gaspary | Scrum Team | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
 | Gabriel Tase Telmo |  Scrum Team | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
 | Igor Makoto Hoshino |  Scrum Team  | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
-| Isadora de Sousa Fanti |  Scrum Team  | [](https://github.com/zzadoraa) | [](https://www.linkedin.com/in/isadora-fanti-543262286/) |
+| Isadora de Sousa Fanti |  Scrum Team  | https://github.com/zzadoraa | https://www.linkedin.com/in/isadora-fanti-543262286/ |
 | Júlio Ferreira Siqueira dos Santos |  Scrum Team  | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
 | Pedro Aurélio Freitas Lemos dos Santos Lira |  Scrum Team  | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
