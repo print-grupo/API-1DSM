@@ -1,8 +1,9 @@
 
-# Título do Projeto
+# Kredita
 
 ## Descrição do Desafio
-[Descreva aqui o contexto geral do desafio proposto. Explique qual é o problema principal que o projeto visa resolver e, em seguida, detalhe a dor do parceiro/cliente — qual era o impacto negativo, ineficiência ou obstáculo que eles enfrentavam no dia a dia antes desta solução.]
+Conceder crédito para populações historicamente recusadas por grandes instituições financeiras exige ir além da visão tradicional de risco: **exige identificar onde residem o consumo reprimido e a capacidade real de pagamento sustentável.**
+Neste projeto, nosso objetivo é explorar e transformar dados econômicos públicos do **Banco Central do Brasil (BCB)** em inteligência territorial para apoiar decisões de crédito mais inclusivas e responsáveis.
 
 ---
 
