@@ -169,7 +169,7 @@ Acesse a [Pasta de Documentação](https://www.google.com/search?q=./docs) para 
 | --- | --- | --- | --- |
 | Karam Diniz Coutinho |  Product Owner | https://github.com/karam-diniz | www.linkedin.com/in/karam-diniz |
 | Davi Ribeiro André  | Scrum Master | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
-| Gabriel Herzer Gaspary | Scrum Team | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
+| Gabriel Herzer Gaspary | Scrum Team | https://github.com/GabrielHerzer | https://www.linkedin.com/in/gabriel-herzer-133220352/ |
 | Gabriel Tase Telmo |  Scrum Team | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
 | Igor Makoto Hoshino |  Scrum Team  | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
 | Isadora de Sousa Fanti |  Scrum Team  | https://github.com/zzadoraa | https://www.linkedin.com/in/isadora-fanti-543262286/ |
