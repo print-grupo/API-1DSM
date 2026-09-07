@@ -7,10 +7,24 @@ Neste projeto, nosso objetivo é explorar e transformar dados econômicos públi
 
 ---
 
-## Backlog de Produto
-* [ ] **Épico/Requisito 1:** [Descrição breve da funcionalidade ou história de usuário de alta prioridade]
-* [ ] **Épico/Requisito 2:** [Descrição breve da funcionalidade ou história de usuário de média prioridade]
-* [ ] **Épico/Requisito 3:** [Descrição breve da funcionalidade ou história de usuário de menor prioridade]
+# Product Backlog
+
+| ID | Sprint | Prioridade | User Story | Critérios de Aceite (Definição de Pronto) | Estimativa |
+|:---|:---:|:---:|:---|:---|:---:|
+| **US01** | 1 | Alta | **Como analista de crédito**, gostaria de coletar dados do BCB (inadimplência, ticket, etc.) e integrar bases da SPA, IBGE e Data Senado (Bets), para que a análise reflita o real comprometimento financeiro da região. | - Acesso direto via Colab[cite: 2].<br>- Quebra de faixas de atraso (curta e longa).<br>- Integração de fontes sobre apostas (Bets). | |
+| **US02** | 1 | Alta | **Como analista de dados**, gostaria que os indicadores estivessem padronizados e limpos, diferenciando dívida saudável de crítica, para garantir a confiabilidade dos cálculos do Score. | - Limpar dados nulos e valores absurdos (infinitos).<br>- Converter valores monetários de vírgula para ponto.<br>- Classificar dívida imobiliária (saudável) vs. consumo/Bets (crítica). | |
+| **US03** | 1 | Alta | **Como tomador de decisões**, gostaria de obter um Score de Oportunidade que valorize a "inadimplência de recuperação rápida" (< 20 dias) e penalize o endividamento crítico, para identificar a real capacidade de pagamento sustentável. | - Fórmula no Colab.<br>- Considerar Fatores: Potencial de Mercado, Dinâmica, Risco Relativo e Saturação de Grandes Bancos.<br>- Identificar histórico de baixa conversão para inadimplência longa (>90 dias). | |
+| **US04** | 1 | Alta | **Como usuário final**, desejo visualizar os dados reais processados por meio de gráficos, para facilitar a análise e a compreensão rápida das informações. | - Pelo menos um gráfico gerado plotando dados reais dentro do notebook do Colab. | |
+| **US05** | 1 | Alta | **Como usuário**, desejo acessar a estrutura inicial do site web, mesmo sem os dados reais conectados, para visualizar a futura organização do sistema. | - Esqueleto (Site inicial) criado em HTML5/CSS3[cite: 2].<br>- Código salvo e versionado no GitHub[cite: 2]. | |
+| **US06** | 2 | Alta | **Como desenvolvedor**, desejo que o site consuma os dados limpos através de uma API (1º DSM) em Flask[cite: 2], para automatizar a visualização dos dados reais na web. | - API REST em Flask conectada e retornando os dados do projeto no backend[cite: 2]. | |
+| **US07** | 2 | Alta | **Como analista de crédito**, gostaria de visualizar um mapa interativo de potencial de mercado e uma tabela de ranking regional, para focar investimentos nas melhores áreas[cite: 1]. | - Mapa integrado à interface web exibindo o Score.<br>- Tabela classificatória (Ranking) baseada no Score. | |
+| **US08** | 2 | Média | **Como analista**, quero poder filtrar os indicadores por cenários e granularidade (Macro/Micro), para analisar dados de forma mais específica e granular[cite: 1]. | - Filtros funcionais aplicados no mapa e na tabela do sistema web. | |
+| **US09** | 3 | Média | **Como estrategista**, quero comparar detalhadamente duas regiões lado a lado, para decidir com maior precisão qual mercado focar[cite: 1]. | - Tela de comparação regional com gráficos paralelos implementada. | |
+| **US10** | 3 | Baixa | **Como gestor**, desejo exportar os dados do sistema em formatos variados (PDF, CSV, XLSX, XML), para facilitar apresentações e uso offline[cite: 1]. | - Botão de exportação/download na interface gerando os arquivos de maneira válida. | |
+| **US11** | 3 | Baixa | **Como usuário do sistema**, desejo que o acesso seja restrito por Autenticação (Login) nas áreas sensíveis, para manter a segurança das análises estratégicas[cite: 1]. | - Tela de Login funcional.<br>- Bloqueio e permissões de rotas privadas aplicados. | |
+| **US12** | 3 | Baixa | **Como cliente**, desejo acessar o website institucional, a metodologia e manuais do sistema, para compreender facilmente a origem do Score e como usar a ferramenta[cite: 1]. | - Página pública de documentação, manuais de uso e explicação metodológica online. |
+
+> **Nota para a Equipe Scrum:** A coluna de **Estimativa** foi deixada intencionalmente vazia. Como o refinamento adicionou tarefas mais complexas (como a junção dos dados do IBGE, SPA e do Senado na US01), este campo deve ser preenchido colaborativamente pela *Equipe de Desenvolvimento* durante a cerimônia de *Sprint Planning*[cite: 4, 9]. Para isso, recomenda-se a utilização de técnicas como o *Planning Poker* ou *Story Points*, baseando-se no esforço e tempo necessários para transformar cada item em um incremento do produto funcional[cite: 3, 4].
 
 ---
 
