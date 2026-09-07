@@ -167,7 +167,7 @@ Acesse a [Pasta de Documentação](https://www.google.com/search?q=./docs) para 
 
 | Nome Completo | Papel | GitHub | LinkedIn |
 | --- | --- | --- | --- |
-| Karam Diniz Coutinho |  Product Owner | www.linkedin.com/in/karam-diniz | https://github.com/karam-diniz |
+| Karam Diniz Coutinho |  Product Owner | https://github.com/karam-diniz | www.linkedin.com/in/karam-diniz |
 | Davi Ribeiro André  | Scrum Master | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
 | Gabriel Herzer Gaspary | Scrum Team | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
 | Gabriel Tase Telmo |  Scrum Team | [](https://www.google.com/search?q=link-github) | [](https://www.google.com/search?q=link-linkedin) |
